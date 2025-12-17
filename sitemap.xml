@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url><loc>https://homemeals.blog/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+    <url><loc>https://homemeals.blog/about/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    <url><loc>https://homemeals.blog/contact/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+    <url><loc>https://homemeals.blog/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+    <url>
+        <loc>https://homemeals.blog/recipes/classic-meatloaf/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1544025162-d76694265947?w=1200</image:loc>
+            <image:title>Classic Glazed Meatloaf</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://homemeals.blog/recipes/creamy-tuna-casserole/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=1200</image:loc>
+            <image:title>Creamy Tuna Casserole</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://homemeals.blog/recipes/beef-stroganoff/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1574484284002-952d92456975?w=1200</image:loc>
+            <image:title>Beef Stroganoff</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://homemeals.blog/recipes/chicken-fried-steak/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=1200</image:loc>
+            <image:title>Chicken Fried Steak</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://homemeals.blog/recipes/sloppy-joes/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1513185158878-8d8c2a2a3da3?w=1200</image:loc>
+            <image:title>Classic Sloppy Joes</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://homemeals.blog/recipes/shepherds-pie/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1600891964092-4316c288032e?w=1200</image:loc>
+            <image:title>Shepherd's Pie</image:title>
+        </image:image>
+    </url>
+</urlset>
